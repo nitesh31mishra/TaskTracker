@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Servers/Tools/Packages
+
+RestAPI: Json-Server(https://github.com/typicode/json-server)  
+Routing: react-router-dom(https://reactrouter.com/en/main/start/tutorial)
+
+### Instructions:
+
+For creating db.json file  
+`npm run server`  
+<b>Note:</b> Added the server parameter with command to run it explicitly for temporary backend.
